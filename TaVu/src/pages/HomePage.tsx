@@ -1,10 +1,10 @@
-import React from 'react'
-import Auth from './components/Auth.tsx';
+import React from "react";
+import Auth from "../components/Auth";
 
 export default function HomePage() {
   return (
     <div>
-        <Auth />
+      <Auth />
     </div>
-  )
+  );
 }
